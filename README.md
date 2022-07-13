@@ -75,4 +75,12 @@
   </ul>
 <hr/>
  <h2 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h2>
+ 
+ <p align="center">
+ [][][][]<br/>
+ [][][][]<br/>
+ [][][][]<br/>
+ [][][][]<br/>
+ </p>
+ 
  <h3 align="center">Contact Me: https://kiko-o.netlify.app/personal</h3>
