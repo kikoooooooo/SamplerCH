@@ -56,10 +56,13 @@
       Each object shares a common parent.
     </li>
     <li>
+      Run app <code>py application.py</code>
+    </li>
+    <li>
       Using wildcard (<code>*</code>) imports.
     </li>
     <li>
-      Included Libraries (<code>/Lib</code>): tkinter, pydub & ffmpeg. 
+      Included libraries (<code>/Lib</code>): tkinter, pydub & ffmpeg. 
     </li>
     <li>
       See extra information in <code>main.py</code> & <code>main.md</code>.
