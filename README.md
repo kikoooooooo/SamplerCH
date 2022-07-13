@@ -56,7 +56,7 @@
       Each object shares a common parent.
     </li>
     <li>
-      Run app <code>py application.py</code>
+      Run app: <code>py application.py</code>
     </li>
     <li>
       Using wildcard (<code>*</code>) imports.
