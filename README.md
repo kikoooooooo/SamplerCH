@@ -47,16 +47,16 @@
       <li>Modified files are to be marked as changed.</li>
     </ol>
 <h2>Developer Notes</h2>
-  <h4>If anyone wants to fork this, here's some notation:</h4>
+  <h4>Notation for Potential Contributers:</h4>
   <ul>
+     <li>
+      Run program: <code>py application.py</code>
+    </li>
     <li>
       Application is created using object oriented programming.
     </li>
     <li>
       Each object shares a common parent.
-    </li>
-    <li>
-      Run app: <code>py application.py</code>
     </li>
     <li>
       Using wildcard (<code>*</code>) imports.
