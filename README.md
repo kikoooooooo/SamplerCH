@@ -1,9 +1,3 @@
-<!--
-  Open this in GitHub:
-
-   Or view Local PDF:
-
--->
 <h3 align="center">A simple, open source, pad sampler.</h3>
 <p align="right"><em>Version 1.0</em></p>
 <hr/>
