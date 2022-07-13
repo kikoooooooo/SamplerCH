@@ -44,16 +44,19 @@
       <li>Modified files are to be marked as changed.</li>
     </ol>
 <h1>Developer Notes</h1>
-  <h2>If anyone wants to fork this, here's some notation:</h2>
+  <h4>If anyone wants to fork this, here's some notation:</h4>
   <ul>
     <li>
       Application is created using object oriented programming.
     </li>
     <li>
-      Each "component" shares a common parent.
+      Each object shares a common parent.
     </li>
     <li>
       Using wildcard (<code>*</code>) imports.
+    </li>
+    <li>
+      Included Libraries (<code>/Lib</code>): tkinter, pydub & ffmpeg. 
     </li>
     <li>
       See extra information in <code>main.py</code> & <code>main.md</code>.
