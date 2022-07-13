@@ -7,7 +7,19 @@
 <h3 align="center">A simple, open source, pad sampler.</h3>
 <p align="right"><em>Version 1.0</em></p>
 <hr/>
-<h1>Installation</h1>
+<details open="open">
+  <summary><h1 style="display: inline-block">Table of Contents</h1></summary>
+  <ol>
+    <li> <a href="#about-the-project">About The Project</a> </li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#contacts">Contacts</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+<h1 style="display: inline-block">Installation</h1>
 <h2>Prerequisites</h2>
   <ul>
     <li>Python Version 3</li>
@@ -19,7 +31,7 @@
     <li>Extract Contents</li>
     <li>Launch Executable</li>
   </ol>
-<h1>Setup</h1>
+<h1 style="display: inline-block">Setup</h1>
   <h2>Samples</h2>
     <ol>
       <li>Click Assignment Button</li>
@@ -34,7 +46,7 @@
     <ol>
       <li></li>
     </ol>
-<h1>Legal:</h1>
+<h1 style="display: inline-block">Legal:</h1>
   <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022 </h4>
   <h2>License Declares:</h2>
     <ol>
@@ -43,7 +55,7 @@
       <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
       <li>Modified files are to be marked as changed.</li>
     </ol>
-<h1>Developer Notes</h1>
+<h1 style="display: inline-block">Developer Notes</h1>
   <h4>If anyone wants to fork this, here's some notation:</h4>
   <ul>
     <li>
