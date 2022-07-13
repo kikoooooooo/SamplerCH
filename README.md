@@ -50,7 +50,7 @@
   <h4>Notation for Potential Contributers:</h4>
   <ul>
      <li>
-      Run program: <code>py application.py</code>
+      Run program: <code>py app.py</code>
     </li>
     <li>
       Application is created using object oriented programming.
