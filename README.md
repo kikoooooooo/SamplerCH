@@ -35,10 +35,10 @@
       <li>Select File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a>)</li>
     </ol>
   <h3>Keybinding</h3>
-    <h4>Note: Using keybinds does not trigger the pad graphic.</h4>
     <ol>
       <li></li>
     </ol>
+    <h4>Note: Using keybinds does not trigger the pad graphic.</h4>
   <h3>Sequencer</h3>
     <ol>
       <li></li>
