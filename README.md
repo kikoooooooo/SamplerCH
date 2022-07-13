@@ -19,7 +19,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<h1 style="display: inline-block">Installation</h1>
+<summary><h1 style="display: inline-block">Installation</h1></summary>
 <h2>Prerequisites</h2>
   <ul>
     <li>Python Version 3</li>
@@ -75,5 +75,5 @@
     </li>
   </ul>
 <hr/>
- <h1 align="center"><a href="https://github.com/kikoooooooo/SamplerCH#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h1>
+ <h1 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h1>
  <h3 align="center">Contact Me: https://kiko-o.netlify.app/personal</h3>
