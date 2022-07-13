@@ -19,7 +19,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<summary><h2>Installation</h2></summary>
+<h2>Installation</h2>
 <h3>Prerequisites</h3>
   <ul>
     <li>Python Version 3</li>
