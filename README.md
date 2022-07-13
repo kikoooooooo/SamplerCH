@@ -63,7 +63,7 @@
     </li>
   </ul>
 <hr/>
-<p align=center>
+<p align="center">
 <h1><a href="https://github.com/kikoooooooo/SamplerCH#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h1>
 <h3>Contact Me: https://kiko-o.netlify.app/personal</h3>
 </p>
