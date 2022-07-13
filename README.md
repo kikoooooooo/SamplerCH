@@ -13,7 +13,7 @@
 </details>
 <h2>About</h2>
 <p>
-  SamplerCh. is a simple, open source & free music production software. This software allows you to assign audio files to a grid of pads that can be played with the click of a mouse/press of a key. The software interface & functions are inspired by the classic AKAI MPC 2000XL designed by Roger Linn; the name of the software has no meaning.
+  SamplerCh. is a simple, open source & free music production software. This software allows you to assign audio files to a grid of "pads" that can be played with the click of a mouse/press of a key. The software interface & functions are inspired by the classic AKAI MPC 2000XL designed by Roger Linn; the name of the software has no meaning.
 </p>
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
