@@ -10,13 +10,10 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li> <a href="#about-the-project">About The Project</a> </li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#disclaimer">Disclaimer</a></li>
-    <li><a href="#contacts">Contacts</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#setup">Setup</a></li>
+    <li><a href="#legal">Legal</a></li>
+    <li><a href="#developer-notes">Developer</a></li>
   </ol>
 </details>
 <h2>Installation</h2>
@@ -31,7 +28,7 @@
     <li>Extract Contents</li>
     <li>Launch Executable</li>
   </ol>
-<h3>Setup</h3>
+<h2>Setup</h2>
   <h3>Samples</h3>
     <ol>
       <li>Click Assignment Button</li>
