@@ -76,7 +76,7 @@
 <hr/>
  <h2 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h2>
  
- <h4 align="center">SamplerCh.</h4>
+ <h3 align="center">SamplerCh.</h3>
  <p align="center">
  [⠀][⠀][⠀][⠀]<br/>
  [⠀][⠀][⠀][⠀]<br/>
