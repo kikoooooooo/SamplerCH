@@ -31,7 +31,7 @@
   <h3>Samples</h3>
     <ol>
       <li>Click Assignment Button</li>
-      <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a>)</li>
+      <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
   <h3>Keybinding</h3>
     <ol>
