@@ -9,7 +9,6 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#setup">Setup</a></li>
     <li><a href="#legal">Legal</a></li>
-    <li><a href="#developer-notes">Developer</a></li>
   </ol>
 </details>
 <h2>About</h2>
