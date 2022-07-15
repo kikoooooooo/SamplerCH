@@ -29,7 +29,7 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
     <li>Python Version ≥ 3</li>
   </ul>
 <h3>Requirements</h3>
-<h4>All of these are <u>included</u>:</h4>
+<h4>All of the following are included, this is for contributers/tinkerers:</h4>
   <ul>
     <li>tkinter (Python 3 distribution)</li>
     <li>pydub version ≥ .25</li>
