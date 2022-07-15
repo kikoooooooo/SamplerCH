@@ -28,6 +28,7 @@
     <li>Launch Executable</li>
   </ol>
 <h2>Setup</h2>
+<h4>Configure the application to your liking in Settings Window.</h4>
   <h3>Samples</h3>
     <ol>
       <li>Click Assignment Button</li>
@@ -42,7 +43,6 @@
     <ol>
       <li></li>
     </ol>
-   <h4>Configure the application to your liking in Settings Window.</h4>
 <h2>Legal</h2>
   <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022</h4>
   <h3>License Declares:</h3>
