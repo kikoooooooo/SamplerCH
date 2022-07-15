@@ -14,10 +14,13 @@
 </details>
 <h2>About</h2>
 <p>
-  SamplerCh. is a simple, open source & free music production software. This software allows you to assign audio files to a grid of "pads" that can be played with the click of a mouse/press of a key.
+SamplerCh. is a simple, open source & free music production software. This software allows you to assign audio files (samples) to a 4x4 grid of "pads" that can be played with the click of a mouse/press of a key. You can record & sequence your preformances on the pads, allowing you to create songs; in the words of Roger Linn "-think of it as the piano or violin of our time".
 </p>
 <p>
-  The software interface & functions are inspired by the classic AKAI MPC 2000XL because I saw how simple it was to create music on that machine, & sick of trying to figure out DAW's I decided I would make this software based on the MPC's easy work flow. How I want to "cook" is to be able to open the software, load my samples & begin; no confusion that leads me to closing the software and my creative inspiration.
+⠀⠀The software interface & functions are inspired by the classic AKAI MPC 3000 because I saw how simple it was to create music on that machine, & sick of trying to figure out DAW's I decided I would make this software based on the MPC's easy work flow. How I want to "cook" is to be able to open the software, load my samples & begin; no confusion that leads me to closing the software and my creative inspiration.
+</p>
+<p>
+With this software, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
 </p>
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
@@ -39,6 +42,7 @@
       <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
   <h3>Keybinding</h3>
+  <p>By default, the keybinds are <code>7, Y, G, V</code>(Bank-A)<p>
     <ol>
       <li></li>
     </ol>
