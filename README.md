@@ -28,7 +28,7 @@
     <li>Launch Executable</li>
   </ol>
 <h2>Setup</h2>
-<h4>Configure the application to your liking in Settings Window.</h4>
+<h4>Configure the application to your liking in the Settings Window.</h4>
   <h3>Samples</h3>
     <ol>
       <li>Click Assignment Button</li>
