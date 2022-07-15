@@ -26,8 +26,14 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
   <ul>
-    <li>Python Version > 3</li>
-    <li>FFMPEG (included in bundle installer)</li>
+    <li>Python Version ≥ 3</li>
+  </ul>
+<h3>Requirements</h3>
+<h4>All of these are included:</h4>
+  <ul>
+    <li>tkinter (Python 3 distribution)</li>
+    <li>pydub version ≥ .25</li>
+    <li>FFMPEG</li>
   </ul>
 <h3>Steps</h3>
   <ol>
