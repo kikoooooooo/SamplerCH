@@ -1,4 +1,5 @@
 <h3 align="center">A simple, open source, pad sampler.</h3>
+<h1 align="center">An image will be here.</h1>
 <p align="right"><em>Version 1.0</em></p>
 <hr/>
 <details open="open">
