@@ -55,7 +55,7 @@
   <h4>Notation for Potential Contributers:</h4>
   <ul>
      <li>
-      Run program: <code>py app.py</code> (powershell terminal)
+      Run program: <code>py app.py</code>
     </li>
     <li>
       Application is created using object oriented programming.
