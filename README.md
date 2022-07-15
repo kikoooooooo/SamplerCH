@@ -13,6 +13,7 @@
   </ol>
 </details>
 <h2>About</h2>
+<!--Please ignore the poor indentation.-->
 <p>
 SamplerCh. is a simple, open source & free music production software. This software allows you to assign audio files (samples) to a 4x4 grid of "pads" that can be played with the click of a mouse/press of a key. You can record & sequence your preformances on the pads, allowing you to create songs; in the words of Roger Linn "-think of it as the piano or violin of our time".
 </p>
@@ -42,11 +43,11 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
       <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
   <h3>Keybinding</h3>
-  <p>By default, the keybinds are:<br/>
-  <code>7, Y, G, V</code> (Bank-A), <code>8, U, H, B</code> (Bank-B), <code>9, I, J, N</code> (Bank-C)<p> & <code>0, O, K, M</code> (Bank-D)
-  </p>
+  <p>Reassign the keybinds in a way that your hands & fingers are comfortable playing, the positioning will depend on your keyboard.</p>
     <ol>
-      <li></li>
+      <li>Open Settings</li>
+      <li>Default Keybinds are Listed</li>
+      <li>Reassign Accordingly</li>
     </ol>
     <h4>Note: Using keybinds does not trigger the pad graphic.</h4>
   <h3>Sequencer</h3>
