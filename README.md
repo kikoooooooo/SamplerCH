@@ -47,7 +47,7 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
       <li></li>
     </ol>
   <h3>Keybinding</h3>
-  <h4>Reassign the keybinds in a way that your hands & fingers are comfortable playing.</h4>
+  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably</h4>
     <ol>
       <li>Open Settings</li>
       <li>Default Keybinds are Listed</li>
