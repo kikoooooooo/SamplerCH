@@ -21,7 +21,7 @@ SamplerCh. is a simple, open source & free music production software. This softw
 ⠀⠀The software interface & functions are inspired by the classic AKAI MPC 2000 because I saw how simple it was to create music on that machine, & sick of trying to figure out DAW's I decided I would make this software based on the MPC's easy work flow. How I want to "cook" is to be able to open the software, load my samples & begin; no confusion that leads me to closing the software and my creative inspiration.
 </p>
 <p>
-With this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
+With this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment. And remember: <strong><em>Anyone Can Cook</em></strong>
 </p>
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
