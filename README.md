@@ -57,8 +57,15 @@ TLDR; My Mission: <strong><em>Anyone Can Cook!</em></strong>
     <ol>
       <li></li>
     </ol>
+  <h3>Stems</h3>
+    <h4>"Stems" are the various instruments that make up a song.</h4>
+    <ol>
+      <li>Select Audio File</li>
+      <li>Choose Stem(s)</li>
+      <li>Save Stem Where Desired</li>
+    </ol>
   <h3>Keybinding</h3>
-  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably</h4>
+  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
     <ol>
       <li>Open Settings</li>
       <li>Default Keybinds are Listed</li>
