@@ -34,15 +34,17 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
     <li>Extract Contents</li>
     <li>Launch Executable</li>
   </ol>
-<h2>Setup</h2>
+<h2>Configuration</h2>
 <h4>Configure the application to your liking in the Settings Window.</h4>
   <h3>Samples</h3>
     <ol>
-      <li>Click Assignment Button</li>
+      <li>Click Corresponding Assignment Button</li>
       <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
   <h3>Keybinding</h3>
-  <p>By default, the keybinds are <code>7, Y, G, V</code>(Bank-A)<p>
+  <p>By default, the keybinds are:<br/>
+  <code>7, Y, G, V</code> (Bank-A), <code>8, U, H, B</code> (Bank-B), <code>9, I, J, N</code> (Bank-C)<p> & <code>0, O, K, M</code> (Bank-D)
+  </p>
     <ol>
       <li></li>
     </ol>
