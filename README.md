@@ -18,7 +18,7 @@
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
   <ul>
-    <li>Python Version >3</li>
+    <li>Python Version > 3</li>
     <li>FFMPEG (included in bundle installer)</li>
   </ul>
 <h3>Steps</h3>
