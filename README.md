@@ -42,17 +42,24 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
       <li>Click Corresponding Assignment Button</li>
       <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
+  <h3>Sequencer</h3>
+    <ol>
+      <li></li>
+    </ol>
   <h3>Keybinding</h3>
   <p>Reassign the keybinds in a way that your hands & fingers are comfortable playing, the positioning will depend on your keyboard.</p>
     <ol>
       <li>Open Settings</li>
       <li>Default Keybinds are Listed</li>
       <li>Reassign Accordingly</li>
+      <li>Save</li>
     </ol>
     <h4>Note: Using keybinds does not trigger the pad graphic.</h4>
-  <h3>Sequencer</h3>
+  <h3>Colors</h3>
     <ol>
-      <li></li>
+      <li>Open Settings</li>
+      <li>Input Hex Code (<code>#XXXXX</code>) into Desired Component</li>
+      <li>Save</li>
     </ol>
 <h2>Legal</h2>
   <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022</h4>
