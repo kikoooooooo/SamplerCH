@@ -47,14 +47,14 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
       <li></li>
     </ol>
   <h3>Keybinding</h3>
-  <p>Reassign the keybinds in a way that your hands & fingers are comfortable playing.</p>
+  <h4>Reassign the keybinds in a way that your hands & fingers are comfortable playing.</h4>
     <ol>
       <li>Open Settings</li>
       <li>Default Keybinds are Listed</li>
       <li>Reassign Accordingly</li>
       <li>Save</li>
     </ol>
-    <h4>Note: Using keybinds does not trigger the pad graphic.</h4>
+    <p>Note: Using keybinds does not trigger the pad graphic.</p>
   <h3>Colors</h3>
     <ol>
       <li>Open Settings</li>
