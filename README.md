@@ -29,7 +29,7 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
     <li>Python Version ≥ 3</li>
   </ul>
 <h3>Requirements</h3>
-<h4>All of these are included:</h4>
+<h4>All of these are <u>included</u>:</h4>
   <ul>
     <li>tkinter (Python 3 distribution)</li>
     <li>pydub version ≥ .25</li>
@@ -76,28 +76,6 @@ With this software, I hope to bring My & Linn's ideas about simplified music pro
       <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
       <li>Modified files are to be marked as changed.</li>
     </ol>
-<h2>Developer Notes</h2>
-  <h4>Notation for Potential Contributers:</h4>
-  <ul>
-     <li>
-      Run program: <code>py app.py</code>
-    </li>
-    <li>
-      Application is created using object oriented programming.
-    </li>
-    <li>
-      Each object shares a common parent.
-    </li>
-    <li>
-      Using wildcard (<code>*</code>) imports.
-    </li>
-    <li>
-      Included libraries (<code>/Lib</code>): tkinter, pydub & ffmpeg. 
-    </li>
-    <li>
-      See extra information in <code>main.py</code> & <code>main.md</code>.
-    </li>
-  </ul>
 <hr/>
  <h2 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h2>
  
