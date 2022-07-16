@@ -1,6 +1,6 @@
 <h3 align="center"><em>Anyone Can Cook!</em></h3>
 <h1 align="center">An image will be here because this is not out yet!!</h1>
-<p align="right"><em>Version 1.0</em></p>
+<p align="right"><em>Version 2.0</em></p>
 <hr/>
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -9,6 +9,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#setup">Setup</a></li>
     <li><a href="#legal">Legal</a></li>
+    <li><a href="#contibuters">Note for Contriuters</a></li>
   </ol>
 </details>
 <h2>About</h2>
@@ -89,6 +90,8 @@ TLDR; My Mission: <strong><em>Anyone Can Cook!</em></strong>
       <li>Modified files are to be marked as changed.</li>
     </ol>
 <hr/>
+<h2>Apology for Potential Contributers</h2>
+<p>This is programmed in 100% Python using the tkinter gui library. This project <strong>used</strong> to be created using an object oriented means: every object or component of the software is separated into it's own file then rendered into the main file; I'm very sad I had to abandon this approach, as I was proud of it. But as the notice in <code>ch.py</code> states, "I wasn't able to implement as much functions as I wanted to". So, if anyone wants to fork this or contribute which I highly doubt, I am sorry.</p>
  <h2 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h2>
  
  <h3 align="center">SamplerCh.</h3>
