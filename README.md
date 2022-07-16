@@ -9,7 +9,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#setup">Setup</a></li>
     <li><a href="#legal">Legal</a></li>
-    <li><a href="#apology-for-potential-contributers">Note for Contriuters</a></li>
+    <li><a href="#apology-for-potential-contributers">Formal Apology for Contributers</a></li>
   </ol>
 </details>
 <h2>About</h2>
