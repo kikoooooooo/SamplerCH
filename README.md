@@ -89,9 +89,9 @@ TLDR; My Mission: <strong><em>Anyone Can Cook!</em></strong>
       <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
       <li>Modified files are to be marked as changed.</li>
     </ol>
-<hr/>
 <h2>Apology for Potential Contributers</h2>
 <p>This is programmed in 100% Python using the tkinter gui library. This project <strong>used</strong> to be created using an object oriented means: every object or component of the software is separated into it's own file then rendered into the main file; I'm very sad I had to abandon this approach, as I was proud of it. But as the notice in <code>ch.py</code> states, "I wasn't able to implement as much functions as I wanted to". So, if anyone wants to fork this or contribute which I highly doubt, I am sorry.</p>
+<hr/>
  <h2 align="center"><a href="#a-simple-open-source-pad-sampler">Thank You For Reading :)</a></h2>
  
  <h3 align="center">SamplerCh.</h3>
