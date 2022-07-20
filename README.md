@@ -23,7 +23,7 @@ SamplerCh. is a simple, open source & free music production software. This softw
 <p>
 With this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
 <br/>
-TLDR; My Mission: <strong><em>Anyone Can Cook!</em></strong>
+<strong><em>Anyone Can Cook!</em></strong>
 </p>
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
