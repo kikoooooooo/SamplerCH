@@ -13,7 +13,7 @@
   </ol>
 </details>
 <h2>About</h2>
-<!--Please ignore the poor indentation.-->
+<!--Please ignore the poor indentation. A-->
 <p>
 SamplerCh. is a simple, open source & free music production software. This software allows you to "chop" up audio files and turn them into "samples"--samples which you can assign to a 4x4 grid of "pads" that can be played with the click of a mouse/press of a key. You then can record & sequence your preformances on the pads, allowing you to create songs; treat this software like an instrument, or in the words of Roger Linn: <em>"-think of it as the piano or violin of our time"</em>.
 </p>
