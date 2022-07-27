@@ -19,7 +19,11 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#requirements">Requirements (developers)</a></li>
     <li><a href="#assign-samples">Assign Samples</a></li>
-    <li><a href="#apology-for-potential-contributers">Roadmap</a></li>
+    <li><a href="#create-samples">Create Samples</a></li>
+    <li><a href="#sequence-audio">Sequence Audio</a></li>
+    <li><a href="#isolate-stems">Isolate Stems</a></li>
+    <li><a href="#assign-keybinds">Assign Keybinds</a></li>
+    <li><a href="#assign-colors">Assign Colors</a></li>
   </ol>
 </details>
 <h2>About</h2>
@@ -63,7 +67,7 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
     </ol>
    <h4>Your audio files should be stored in <code>./user/audio</code>.</h4>
   <h3>Create Samples</h3>
-  <h4>Chop Samples</h4>
+  <h4>Chop audio & make samples.</h4>
     <ol>
       <li>Open sampler</li>
       <li>Click import & select audio file</li>
