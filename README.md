@@ -47,9 +47,10 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
 <h4>Configure the application to your liking in the Settings Window.</h4>
   <h3>Samples</h3>
     <ol>
-      <li>Click the pad you want the Audio File to be Mapped to</li>
-      <li>Select Audio File (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
+      <li>Click the pad you want the audio file to be assigned to</li>
+      <li>Select desired audio file in the explorer (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
     </ol>
+   <h4>Your audio files should be stored in <code>./user/audio</code>.</h4>
   <h3>Chopping</h3>
     <ol>
       <li></li>
