@@ -33,7 +33,7 @@
 SamplerCh. is a simple, open source & free music production software. This software allows you to "chop" up audio files and turn them into samples--samples which you can assign to a 4x4 grid of "pads" that can be played with the press of a key. You then can record & sequence your preformances on the pads, allowing you to create songs; treat this software like an instrument, or in the words of Roger Linn: <em>"-think of it as the piano or violin of our time"</em>.
 </p>
 <p>
-⠀⠀The software interface & functions are inspired by the early AKAI MPCs because I saw how <a href="https://www.youtube.com/watch?v=z73CcodfT_w&ab_channel=equiknockz">simple it was to create music on that machine</a> (not to undermine Pete). You are intended create music on the software as if you were preforming live on the hardware it is based off of, unlike a modern day DAW. Just click the record button and use all the features of the software at your disposal; please refer to the <a href="#user-manual">User Manual</a>.
+⠀⠀The software interface & functions are inspired by the early AKAI MPCs because I saw how <a href="https://www.youtube.com/watch?v=z73CcodfT_w&ab_channel=equiknockz">simple it was to create music on that machine</a> (not to undermine Pete). You are intended create music on the software as if you were preforming live on the hardware it is based off of, unlike a DAW software. Just click the record button and use all the features of the software at your disposal; please refer to the <a href="#user-manual">User Manual</a>.
 </p>
 <p>
 With this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
