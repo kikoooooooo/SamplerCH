@@ -92,13 +92,13 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
     </ol>
 <h2>Roadmap</h2>
 <h4>This software is currently under development, this is the development roadmap:</h4>
-- [x] User Interface <em>7/17/22</em>
-- [x] User Config <em>7/17/22</em>
-- [ ] Pad Functionality <em>x/x/xx</em>
-- [ ] Audio Chopper <em>x/x/xx</em>
-- [ ] Recording <em>x/x/xx</em>
-- [ ] Sequencer <em>x/x/xx</em>
-- [ ] Stem Isolater (?) <em>x/x/xx</em>
+  ☑️ User Interface <em>7/17/22</em><br/>
+  ☑️ User Config <em>7/17/22</em><br/>
+  ⬜ Pad Functionality <em>x/x/xx</em><br/>
+  ⬜ Audio Chopper <em>x/x/xx</em><br/>
+  ⬜ Recording <em>x/x/xx</em><br/>
+  ⬜ Sequencer <em>x/x/xx</em><br/>
+  ⬜ Stem Isolater (?) <em>x/x/xx</em>
 <hr/>
  <h2 align="center"><a href="#anyone-can-cook">Thank You For Reading :)</a></h2>
  
