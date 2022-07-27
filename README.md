@@ -7,9 +7,19 @@
   <ol>
     <li><a href="#about">About</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#setup">Setup</a></li>
+    <li><a href="#configuration">Configuration</a></li>
     <li><a href="#legal">Legal</a></li>
-    <li><a href="#apology-for-potential-contributers">Formal Apology for Contributers</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+  </ol>
+</details>
+<details>
+  <summary><h2 style="display: inline-block">User Manual</h2></summary>
+  <ol>
+    <li><a href="#about">About</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#requirements">Requirements (developers)</a></li>
+    <li><a href="#assign-samples">Assign Samples</a></li>
+    <li><a href="#apology-for-potential-contributers">Roadmap</a></li>
   </ol>
 </details>
 <h2>About</h2>
@@ -45,28 +55,41 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
   </ol>
 <h2>Configuration</h2>
 <h4>Configure the application to your liking in the Settings Window.</h4>
-  <h3>Samples</h3>
+  <h3>Assign Samples</h3>
     <ol>
       <li>Click the pad you want the audio file to be assigned to</li>
       <li>Select desired audio file in the explorer (see: <a href="https://en.wikipedia.org/wiki/FFmpeg#Supported_codecs_and_formats" target="blank">FFMPEG Supported codecs and formats</a> {Wikipedia})</li>
+      <li>Trigger assigned pad & audio will play</li>
     </ol>
    <h4>Your audio files should be stored in <code>./user/audio</code>.</h4>
-  <h3>Chopping</h3>
+  <h3>Create Samples</h3>
+  <h4>Chop Samples</h4>
+    <ol>
+      <li>Open sampler</li>
+      <li>Click import & select audio file</li>
+      <li>Scrub to desired length</li>
+      <li>Click Export</li> 
+    </ol>
+  <h3>Record Preformance</h3>
+    <ol>
+      <li>Click the record button</li>
+      <li>Play your song on the pads</li>
+      <li>Click the stop button</li>
+      <li>Recording is saved to the user audio directory <code>./user/audio</code></li>
+    </ol>
+  <h3>Sequence Audio</h3>
+  <h4>Loop audio while you record & preform.</h4>
     <ol>
       <li></li>
     </ol>
-  <h3>Sequencer</h3>
-    <ol>
-      <li></li>
-    </ol>
-  <h3>Stems</h3>
-    <h4>"Stems" are the various instruments that make up a song.</h4>
+  <h3>Isolate Stems</h3>
+  <h4>Isolate the various elements that make up a song; allows for clearer or more specific samples.</h4>
     <ol>
       <li>Select Audio File</li>
       <li>Choose Stem(s)</li>
       <li>Save Stem Where Desired</li>
     </ol>
-  <h3>Keybinding</h3>
+  <h3>Assign Keybinds</h3>
   <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
     <ol>
       <li>Open Settings</li>
@@ -75,10 +98,10 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
       <li>Save</li>
     </ol>
     <p>Note: Using keybinds does not trigger the pad graphic.</p>
-  <h3>Colors</h3>
+  <h3>Assign Colors</h3>
     <ol>
       <li>Open Settings</li>
-      <li>Input Hex Code (<code>#XXXXX</code>) into Desired Component</li>
+      <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
       <li>Save</li>
     </ol>
 <h2>Legal</h2>
@@ -95,8 +118,8 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
   ☑️ User Interface <em>7/17/22</em><br/>
   ☑️ User Config <em>7/17/22</em><br/>
   ⬜ Pad Functionality <em>x/x/xx</em><br/>
-  ⬜ Audio Chopper <em>x/x/xx</em><br/>
-  ⬜ Recording <em>x/x/xx</em><br/>
+  ⬜ Sampler <em>x/x/xx</em><br/>
+  ⬜ Recorder <em>x/x/xx</em><br/>
   ⬜ Sequencer <em>x/x/xx</em><br/>
   ⬜ Stem Isolater (?) <em>x/x/xx</em><br/>
   ⬜ Publication (Version 1.0) <em>x/x/xx</em> <!--🎉-->
