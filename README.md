@@ -99,7 +99,7 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
   ⬜ Recording <em>x/x/xx</em><br/>
   ⬜ Sequencer <em>x/x/xx</em><br/>
   ⬜ Stem Isolater (?) <em>x/x/xx</em>
-  ⬜ Publication (Version 1.0) <em>x/x/xx</em>
+  ⬜ Publication (Version 1.0) <em>x/x/xx</em> <!--🎉-->
 <hr/>
  <h2 align="center"><a href="#anyone-can-cook">Thank You For Reading :)</a></h2>
  
