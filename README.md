@@ -24,6 +24,7 @@
     <li><a href="#isolate-stems">Isolate Stems</a></li>
     <li><a href="#assign-keybinds">Assign Keybinds</a></li>
     <li><a href="#assign-colors">Assign Colors</a></li>
+    <li><a href="#thank-you-for-reading-">Closing</a></li>
   </ol>
 </details>
 <h2>About</h2>
