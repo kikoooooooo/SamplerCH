@@ -90,8 +90,15 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
       <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
       <li>Modified files are to be marked as changed.</li>
     </ol>
-<h2>Formal Apology for Potential Contributers</h2>
-
+<h2>Roadmap</h2>
+<h4>This software is currently under development, this is the development roadmap:</h4>
+- [x] User Interface <em>7/17/22</em>
+- [x] User Config <em>7/17/22</em>
+- [ ] Pad Functionality <em>x/x/xx</em>
+- [ ] Audio Chopper <em>x/x/xx</em>
+- [ ] Recording <em>x/x/xx</em>
+- [ ] Sequencer <em>x/x/xx</em>
+- [ ] Stem Isolater (?) <em>x/x/xx</em>
 <hr/>
  <h2 align="center"><a href="#anyone-can-cook">Thank You For Reading :)</a></h2>
  
