@@ -36,7 +36,7 @@ SamplerCh. is a simple, open source & free music production software. This softw
 <p>
 ⠀⠀The software interface & functions are inspired by the early AKAI MPCs because I saw how <a href="https://www.youtube.com/watch?v=z73CcodfT_w&ab_channel=equiknockz">simple it was to create music on that machine</a> (not to undermine Pete). You are intended create music on the software as if you were preforming live on the hardware it is based off of, unlike a DAW software. Just click the record button & use all the features of the software at your disposal; please refer to the <a href="#user-manual">User Manual</a>.
 </p>
-<small>You can skip this section \/</small>
+<em>You can skip this section</em>
 <p>
 ⠀⠀I began creating this software out of my personal passion for hip-hop beats: running out of storage on my phone from beats in Apple Garageband, I wanted to move my production to my computer. Early in development I gained a motive more than personal & decided to share this software as a freeware hoping to change the way "hip-hop" sounds in modern day. Basically (because I could go on about this): I believe modern day "hip-hop" is more like "hip-<strong>pop</strong>" because the capabilities & usage of the DAW softwares used by most producers today leads the producers to be satisfied with a bland, repetitive, "trap" sound to their music; bland & repetitive to a point I can compare their "hip-hop" music to pop. I feel that the capabilities & usage of <em>this</em> software will allow producers to have their own unique hip-hop productions just as the legendary producers who utilized the MPC during 90's-2000's did; not pop.
 </p>
