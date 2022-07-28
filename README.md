@@ -106,7 +106,7 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
       <li></li>
     </ol>
   <h3>Isolate Stems</h3>
-  <h4>Isolate the various elements that make up a song; allows for clearer or more specific samples.</h4>
+  <h4>Isolate the various elements that make up a song, allows for clearer or more specific samples.</h4>
     <ol>
       <li>Select Audio File</li>
       <li>Choose Stem(s)</li>
