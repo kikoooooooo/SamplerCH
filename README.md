@@ -7,8 +7,8 @@
   <ol>
     <li><a href="#about">About</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#configuration">Configuration</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#configuration">Configuration</a></li>
     <li><a href="#legal">Legal</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
@@ -61,23 +61,6 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
     <li>Extract Contents</li>
     <li>Launch Executable</li>
   </ol>
-<h2>Configuration</h2>
-<h4>Configure the application to your liking in the Settings Window.</h4>
-  <h3>Assign Keybinds</h3>
-  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
-    <ol>
-      <li>Open Settings</li>
-      <li>Default Keybinds are Listed</li>
-      <li>Reassign Accordingly</li>
-      <li>Save</li>
-    </ol>
-    <p>Note: Using keybinds does not trigger the pad graphic.</p>
-  <h3>Assign Colors</h3>
-    <ol>
-      <li>Open Settings</li>
-      <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
-      <li>Save</li>
-    </ol>
 <h2>Usage</h2>
   <h3>Assign Samples</h3>
     <ol>
@@ -121,6 +104,23 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
       <li>You are free to copy and distribute modified versions of files in this directory.</li>
       <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
       <li>Modified files are to be marked as changed.</li>
+    </ol>
+<h2>Configuration</h2>
+<h4>Configure the application to your liking in the Settings Window.</h4>
+  <h3>Assign Keybinds</h3>
+  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
+    <ol>
+      <li>Open Settings</li>
+      <li>Default Keybinds are Listed</li>
+      <li>Reassign Accordingly</li>
+      <li>Save</li>
+    </ol>
+    <p>Note: Using keybinds does not trigger the pad graphic.</p>
+  <h3>Assign Colors</h3>
+    <ol>
+      <li>Open Settings</li>
+      <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
+      <li>Save</li>
     </ol>
 <h2>Roadmap</h2>
 <h4>This software is currently under development, this is the development roadmap:</h4>
