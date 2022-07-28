@@ -34,30 +34,29 @@
 SamplerCh. is a simple, open source & free music production software. This software allows you to "chop" up audio files and turn them into samples--samples which you can assign to a 4x4 grid of "pads" that can be played with the press of a key. You then can record & sequence your preformances on the pads, allowing you to create songs; treat this software like an instrument, or in the words of Roger Linn: <em>"-think of it as the piano or violin of our time"</em>.
 </p>
 <p>
-⠀⠀The software interface & functions are inspired by the early AKAI MPCs because I saw how <a href="https://www.youtube.com/watch?v=z73CcodfT_w&ab_channel=equiknockz">simple it was to create music on that machine</a> (not to undermine Pete). You are intended create music on the software as if you were preforming live on the hardware it is based off of, unlike a DAW software. Just click the record button and use all the features of the software at your disposal; please refer to the <a href="#user-manual">User Manual</a>.
+⠀⠀The software interface & functions are inspired by the early AKAI MPCs because I saw how <a href="https://www.youtube.com/watch?v=z73CcodfT_w&ab_channel=equiknockz">simple it was to create music on that machine</a> (not to undermine Pete). You are intended create music on the software as if you were preforming live on the hardware it is based off of, unlike a DAW software. Just click the record button & use all the features of the software at your disposal; please refer to the <a href="#user-manual">User Manual</a>.
+</p>
+<small>You can skip this section \/</small>
+<p>
+  I began creating this software out of my personal passion for hip-hop beats: running out of storage on my phone from beats in Apple Garageband, I wanted to move my production to my computer. Early in development I gained a motive more than personal & decided to share this software as a freeware hoping to change the way "hip-hop" sounds in modern day. Basically (because I could go on about this): I believe modern day "hip-hop" is more like "hip-<strong>pop</strong>" because the capabilities & usage of the DAW softwares used by most producers today leads the producers to be satisfied with a bland, repetitive, "trap" sound to their music; bland & repetitive to a point I can compare their "hip-hop" music to pop. I feel that the capabilities & usage of <em>this</em> software will allow producers to have thier own unique hip-hop productions just as the legendary producers who utilized the MPC during 90's-2000's did; not pop.
 </p>
 <p>
-With this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
+Basically--with this freeware, I hope to bring My & Linn's ideas about simplified music production to the digital environment.
 <br/>
 <strong><em>Anyone Can Cook!</em></strong>
 </p>
 <h2>Installation</h2>
-<h3>Prerequisites</h3>
-  <ul>
-    <li>Python Version ≥ 3</li>
-  </ul>
 <h3>Requirements</h3>
-<h4>All of the following are included, this is for contributers/tinkerers:</h4>
+<h4>IGNORE THIS UNLESS YOU ARE GOING TO TINKER WITH THIS SOFTWARE; USERS SKIP TO <a href="#steps">STEPS</a>.</h4>
   <ul>
     <li>tkinter (Python 3 distribution)</li>
     <li></li> <!--audio library-->
-    <li>pynput</li>
-    <li>FFMPEG</li>
+    <li>pynput LATEST</li>
   </ul>
-<h4>*latest versions of libraries</h4>
+<h4>You should clone the repository and run <code>ch.py</code>, heavy notations are in the code; have fun & thank you :)</h4>
 <h3>Steps</h3>
   <ol>
-    <li>Download Preferred Release</li>
+     <li>Download the latest release (<a href="#">Releases</a>)</li>
     <li>Extract Contents</li>
     <li>Launch Executable</li>
   </ol>
