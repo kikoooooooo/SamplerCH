@@ -125,8 +125,8 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
 <h2>Roadmap</h2>
 <h4>This software is currently under development, this is the development roadmap:</h4>
   ☑️ User Interface <em>7/17/22</em><br/>
-  ☑️ User Config <em>7/17/22</em><br/>
-  ⬜ Pad Functionality <em>x/x/xx</em><br/>
+  ☑️ User Config <em>7/28/22</em><br/>
+  ⬜ Pads <em>x/x/xx</em><br/>
   ⬜ Sampler <em>x/x/xx</em><br/>
   ⬜ Recorder <em>x/x/xx</em><br/>
   ⬜ Sequencer <em>x/x/xx</em><br/>
