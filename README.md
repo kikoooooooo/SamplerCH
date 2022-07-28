@@ -49,7 +49,8 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
 <h4>All of the following are included, this is for contributers/tinkerers:</h4>
   <ul>
     <li>tkinter (Python 3 distribution)</li>
-    <li>pydub version ≥ .25</li>
+    <li></li> <!--audio library-->
+    <li>pynput</li>
     <li>FFMPEG</li>
   </ul>
 <h3>Steps</h3>
