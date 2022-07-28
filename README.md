@@ -8,7 +8,7 @@
     <li><a href="#about">About</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#configuration">Configuration</a></li>
-    <li><a href="#usage"></a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#legal">Legal</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
