@@ -96,15 +96,6 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
       <li>Choose Stem(s)</li>
       <li>Save Stem Where Desired</li>
     </ol>
-<h2>Legal</h2>
-  <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022</h4>
-  <h3>License Declares:</h3>
-    <ol>
-      <li>Copyright is asserted upon this directory.</li>
-      <li>You are free to copy and distribute modified versions of files in this directory.</li>
-      <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
-      <li>Modified files are to be marked as changed.</li>
-    </ol>
 <h2>Configuration</h2>
 <h4>Configure the application to your liking in the Settings Window.</h4>
   <h3>Assign Keybinds</h3>
@@ -133,6 +124,15 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
   ⬜ Stem Isolater (?) <em>x/x/xx</em><br/>
   ⬜ Publication (Version 1.0) <em>x/x/xx</em> <!--🎉-->
 <hr/>
+<h2>Legal</h2>
+  <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022</h4>
+  <h3>License Declares:</h3>
+    <ol>
+      <li>Copyright is asserted upon this directory.</li>
+      <li>You are free to copy and distribute modified versions of files in this directory.</li>
+      <li>When you distribute a copy of files, you are obligated to pass on the same liberties to consumers of your distribution.</li>
+      <li>Modified files are to be marked as changed.</li>
+    </ol>
  <h2 align="center"><a href="#anyone-can-cook">Thank You For Reading :)</a></h2>
  
  <h3 align="center">SamplerCh.</h3>
