@@ -62,6 +62,22 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
   </ol>
 <h2>Configuration</h2>
 <h4>Configure the application to your liking in the Settings Window.</h4>
+  <h3>Assign Keybinds</h3>
+  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
+    <ol>
+      <li>Open Settings</li>
+      <li>Default Keybinds are Listed</li>
+      <li>Reassign Accordingly</li>
+      <li>Save</li>
+    </ol>
+    <p>Note: Using keybinds does not trigger the pad graphic.</p>
+  <h3>Assign Colors</h3>
+    <ol>
+      <li>Open Settings</li>
+      <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
+      <li>Save</li>
+    </ol>
+<h2>Usage</h2>
   <h3>Assign Samples</h3>
     <ol>
       <li>Click the pad you want the audio file to be assigned to</li>
@@ -95,21 +111,6 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
       <li>Select Audio File</li>
       <li>Choose Stem(s)</li>
       <li>Save Stem Where Desired</li>
-    </ol>
-  <h3>Assign Keybinds</h3>
-  <h4>Reassign the keybinds in a way that you can trigger the pads comfortably.</h4>
-    <ol>
-      <li>Open Settings</li>
-      <li>Default Keybinds are Listed</li>
-      <li>Reassign Accordingly</li>
-      <li>Save</li>
-    </ol>
-    <p>Note: Using keybinds does not trigger the pad graphic.</p>
-  <h3>Assign Colors</h3>
-    <ol>
-      <li>Open Settings</li>
-      <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
-      <li>Save</li>
     </ol>
 <h2>Legal</h2>
   <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022</h4>
