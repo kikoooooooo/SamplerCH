@@ -1,6 +1,6 @@
 <h3 align="center"><em>Anyone Can Cook!</em></h3>
 <h1 align="center">An image will be here because this is not out yet!!</h1>
-<p align="right"><em>Version 2.0</em></p>
+<p align="right"><em>Version 1.0</em></p>
 <hr/>
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
