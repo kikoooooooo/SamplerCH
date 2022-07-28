@@ -53,6 +53,7 @@ With this freeware, I hope to bring My & Linn's ideas about simplified music pro
     <li>pynput</li>
     <li>FFMPEG</li>
   </ul>
+<h4>*latest versions of libraries</h4>
 <h3>Steps</h3>
   <ol>
     <li>Download Preferred Release</li>
