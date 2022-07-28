@@ -56,9 +56,10 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
 <h4>You should clone the repository and run <code>ch.py</code>, heavy notations are in the code; have fun & thank you :)</h4>
 <h3>Steps</h3>
   <ol>
-     <li>Download the latest release (<a href="#">Releases</a>)</li>
+    <li>Download the latest release (<a href="#">Releases</a>)</li>
     <li>Extract Contents</li>
     <li>Launch Executable</li>
+    <li>I hope the software is simple enough to use out the zip, but you can look at the <a href="#user-manual">User Manual</a>.</li>  
   </ol>
 <h2>Usage</h2>
   <h3>Assign Samples</h3>
