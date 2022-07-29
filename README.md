@@ -116,7 +116,7 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
       <li>Save</li>
     </ol>
 <h2>Troubleshooting</h2>
-<h3>Please submit any problems you run into with this program.</h3>
+<h3>Please submit any problems that occur while running this program.</h3>
 <h2>Roadmap</h2>
 <h4>This software is currently under development, this is the development roadmap:</h4>
   ☑️ User Interface <em>7/17/22</em><br/>
