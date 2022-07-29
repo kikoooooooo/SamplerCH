@@ -9,6 +9,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#configuration">Configuration</a></li>
+    <li><a href="#troubleshooting">Troubleshooting</a></li>
     <li><a href="#legal">Legal</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
@@ -25,6 +26,7 @@
     <li><a href="#isolate-stems">Isolate Stems</a></li>
     <li><a href="#assign-keybinds">Assign Keybinds</a></li>
     <li><a href="#assign-colors">Assign Colors</a></li>
+    <li><a href="#troubleshooting">Troubleshoot Issues</a></li>
     <li><a href="#thank-you-for-reading-">Closing</a></li>
   </ol>
 </details>
@@ -113,6 +115,8 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
       <li>Input hex color code (<code>#XXXXX</code>) into desired widget.</li>
       <li>Save</li>
     </ol>
+<h2>Troubleshooting</h2>
+<h3>Please submit any problems you run into with this program.</h3>
 <h2>Roadmap</h2>
 <h4>This software is currently under development, this is the development roadmap:</h4>
   ☑️ User Interface <em>7/17/22</em><br/>
