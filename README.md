@@ -84,7 +84,7 @@ Basically--with this freeware, I hope to bring My & Linn's ideas about simplifie
       <li>Click the record button</li>
       <li>Play your song on the pads</li>
       <li>Click the stop button</li>
-      <li>Recording is saved to the user audio directory <code>./user/audio</code></li>
+      <li>Save recording to desired directory</li>
     </ol>
   <h3>Sequence Audio</h3>
   <h4>Loop audio while you record & preform.</h4>
